@@ -1,15 +1,12 @@
 <div align="center">
 
-<div align="center">
-  <img src="./assets/github-animation.gif" width="100%" alt="Pixel art developer animation">
-</div>
+<img src="./assets/github-animation.gif" width="100%" alt="Pixel art developer animation">
 
 # Hi, I'm Everson 👋
 
 ### Systems Engineering Student · Backend Developer
 
-Java · Spring Boot · Node.js · TypeScript  
-APIs · Microservices · Software Architecture · AI Agents
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,ts,react,postgres,docker,git,github,aws,kotlin&theme=dark" alt="Tech stack icons" />
 
 </div>
 
@@ -17,14 +14,11 @@ APIs · Microservices · Software Architecture · AI Agents
 
 ## 👨‍💻 About me
 
-I'm a ninth-semester Systems Engineering student at Universidad del Cauca,
-focused on backend development and software architecture.
+I'm a ninth-semester Systems Engineering student at Universidad del Cauca, focused on backend development and software architecture.
 
-I enjoy understanding how services communicate, designing APIs and turning
-complex systems into software that solves real problems.
+I enjoy understanding how services communicate, designing clean APIs, and turning complex systems into software that solves real problems.
 
-I'm currently building my skills in backend engineering, distributed systems,
-cloud and DevOps.
+Right now I'm deepening my skills in backend engineering, distributed systems, cloud, and DevOps — and exploring how AI agents fit into that picture without replacing human judgment.
 
 > People come before the product.
 
@@ -32,86 +26,65 @@ cloud and DevOps.
 
 ## ⚙️ Tech Stack
 
-### Backend
+**Backend**
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs&theme=dark" alt="Backend stack" />
 
-Java · Spring Boot · Node.js · NestJS · REST APIs
+**Frontend**
+<img src="https://skillicons.dev/icons?i=ts,react,kotlin&theme=dark" alt="Frontend stack" />
 
-### Frontend
+**Data & Messaging**
+<img src="https://skillicons.dev/icons?i=postgres,rabbitmq&theme=dark" alt="Data and messaging stack" />
 
-TypeScript · React · Kotlin · Jetpack Compose
+**Infrastructure & Tools**
+<img src="https://skillicons.dev/icons?i=docker,git,githubactions,aws&theme=dark" alt="Infrastructure and tools stack" />
 
-### Data & Messaging
-
-PostgreSQL · RabbitMQ
-
-### Infrastructure & Tools
-
-Docker · Git · GitHub Actions · AWS
+**AI & Agents**
+`Agent orchestration` `Tool use / function calling` `MCP` `Human-in-the-Loop design`
 
 ---
 
 ## 🏗️ What I'm building
 
-I'm interested in building software systems that are:
+I'm interested in software systems that are reliable, scalable, maintainable, secure, and human-centered.
 
-- Reliable
-- Scalable
-- Maintainable
-- Secure
-- Human-centered
+My current focus sits at the intersection of backend engineering, software architecture, and responsible AI — specifically, how services, people, and AI agents can work together to solve real problems without losing human oversight where it matters.
 
-My current interests are at the intersection of backend engineering,
-software architecture and responsible AI.
+### 🤖 AI, Agents & Human-in-the-Loop
 
-I'm particularly interested in understanding how services, people and
-AI agents can work together to solve real problems.
-
----
-
-## 🤖 AI, Agents & Human-in-the-Loop
-
-I'm exploring how AI can be integrated into software engineering
-without taking humans out of the loop.
-
-I'm interested in AI agents and multi-agent systems that can observe,
-analyze and propose actions, while humans remain responsible for
-reviewing, validating and approving important decisions.
+I'm exploring how AI agents and multi-agent systems can observe, analyze, and propose actions — while humans stay in control of reviewing, validating, and approving the decisions that count.
 
 > AI should amplify human capabilities, not replace human judgment.
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### UrbanGuard
+Residential community management platform centralizing communication, access control, and security processes.
 
-A residential community management platform designed to centralize
-communication, access control and security processes.
+**Architecture:** Microservices · REST APIs · RabbitMQ · JWT / OAuth 2.0
+**Backend:** Java · Spring Boot · Spring Data JPA · PostgreSQL
+**Infrastructure:** Docker · GitHub Actions
 
-**Architecture**
+`Java` `Spring Boot` `Microservices` `PostgreSQL` `Docker`
 
-Microservices · REST APIs · RabbitMQ · JWT/OAuth 2.0
+### Multi-Agent QA System
+Human-in-the-Loop multi-agent system that assists software quality analysis in Java/Spring Boot projects. AI agents observe code, flag potential issues, and propose improvements — developers stay responsible for reviewing and approving every change.
 
-**Backend**
-
-Java · Spring Boot · Spring Data JPA · PostgreSQL
-
-**Infrastructure**
-
-Docker · GitHub Actions
+`AI Agents` `Human-in-the-Loop` `Java` `Spring Boot` `Docker`
 
 ---
 
-## 🤖 Multi-Agent QA System
+## 📊 GitHub Stats
 
-A Human-in-the-Loop multi-agent system for assisting software quality
-analysis in Java/Spring Boot projects.
+<div align="center">
 
-AI agents can observe code, analyze potential issues and propose
-improvements, while developers remain responsible for reviewing and
-approving changes.
+<img src="https://github-readme-stats.vercel.app/api?username=eversonLeandro&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Everson's GitHub stats" height="165" />
+<img src="https://streak-stats.demolab.com/?user=eversonLeandro&theme=dark&hide_border=true" alt="Everson's GitHub streak" height="165" />
 
-`AI Agents` `Human-in-the-Loop` `Java` `Spring Boot` `Docker`
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eversonLeandro&layout=compact&theme=dark&hide_border=true" alt="Everson's most used languages" height="165" />
+
+</div>
 
 ---
 
@@ -120,14 +93,14 @@ approving changes.
 - Cloud & AWS
 - DevOps and deployment
 - Distributed systems
-- Backend architecture
 - Scalable microservices
-- Software engineering practices
+- AI agent orchestration & Human-in-the-Loop design
 - Responsible AI
 
 ---
 
 ## 🤝 Let's connect
 
-[LinkedIn](YOUR_LINKEDIN_URL) ·
-[Email](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/everson-leandro-restrepo-gaviria-598990387)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:eversonrestrepo@unicauca.edu.co)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/eversonLeandro)
