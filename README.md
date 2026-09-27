@@ -1,16 +1,14 @@
 <div align="center">
 
-<img src="./assets/github-animation-cropped.gif" width="100%" alt="Pixel art developer animation">
-
 # Hi, I'm Everson 👋
 
-### Backend Developer · Systems Engineering Student
-
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,ts,react,postgres,docker,git,github,aws,kotlin&theme=dark" alt="Tech stack icons" />
+<img src="./assets/github-animation-cropped.gif" width="100%" alt="Pixel art developer animation">
 
 <p>
-Backend Developer from Popayán, Colombia. Systems Engineering student building APIs and microservices with Java and Spring Boot. Interested in AI agents and human-in-the-loop systems.
+Backend Developer from Popayán, Colombia. Systems Engineering student building APIs and microservices with Java and Spring Boot.
 </p>
+
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,ts,react,postgres,docker,git,github,aws,kotlin&theme=dark" alt="Tech stack icons" />
 
 </div>
 
@@ -59,7 +57,6 @@ My current focus sits at the intersection of backend engineering, software archi
 
 I'm exploring how AI agents and multi-agent systems can observe, analyze, and propose actions — while humans stay in control of reviewing, validating, and approving the decisions that count.
 
-> AI should amplify human capabilities, not replace human judgment.
 
 ---
 
