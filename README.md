@@ -12,15 +12,17 @@
 
 ---
 
-## 👨‍💻 About me
+## About me
 
-I'm a ninth-semester Systems Engineering student at Universidad del Cauca, focused on backend development and software architecture.
+<img src="./assets/building.gif" width="28"> Curious about how complex systems work
 
-I enjoy understanding how services communicate, designing clean APIs, and turning complex systems into software that solves real problems.
+<img src="./assets/puzzle.gif" width="28"> Enjoy turning problems into software solutions
 
-Right now I'm deepening my skills in backend engineering, distributed systems, cloud, and DevOps — and exploring how AI agents fit into that picture without replacing human judgment.
+<img src="./assets/robot.gif" width="28"> Exploring AI agents with humans in the loop
 
-> People come before the product.
+<img src="./assets/dog.gif" width="28"> Dog lover. Bruno is somewhere in the GIF 👀
+
+<img src="./assets/plant.gif" width="28"> Learning by building and experimenting
 
 ---
 
