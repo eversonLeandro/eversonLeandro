@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/github-animation.gif" width="100%" alt="Pixel art developer animation">
+<img src="./assets/github-animation-cropped.gif" width="100%" alt="Pixel art developer animation">
 
 # Hi, I'm Everson 👋
 
