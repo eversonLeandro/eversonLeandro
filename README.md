@@ -4,9 +4,13 @@
 
 # Hi, I'm Everson 👋
 
-### Systems Engineering Student · Backend Developer
+### Backend Developer · Systems Engineering Student
 
 <img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,ts,react,postgres,docker,git,github,aws,kotlin&theme=dark" alt="Tech stack icons" />
+
+<p>
+Backend Developer from Popayán, Colombia. Systems Engineering student building APIs and microservices with Java and Spring Boot. Interested in AI agents and human-in-the-loop systems.
+</p>
 
 </div>
 
