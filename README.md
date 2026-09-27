@@ -14,15 +14,15 @@
 
 ## About me
 
-<img src="./assets/building.gif" width="35"> Curious about how complex systems work
+<img src="./assets/building.gif" width="40"> Curious about how complex systems work
 
-<img src="./assets/puzzle.gif" width="35"> Enjoy turning problems into software solutions
+<img src="./assets/puzzle.gif" width="40"> Enjoy turning problems into software solutions
 
-<img src="./assets/robot.gif" width="35"> Exploring AI agents with humans in the loop
+<img src="./assets/robot.gif" width="40"> Exploring AI agents with humans in the loop
 
-<img src="./assets/dog.gif" width="35"> Dog lover. Bruno is somewhere in the GIF 👀
+<img src="./assets/dog.gif" width="40"> Dog lover. Bruno is somewhere in the GIF 👀
 
-<img src="./assets/plant.gif" width="35"> Learning by building and experimenting
+<img src="./assets/plant.gif" width="40"> Learning by building and experimenting
 
 ---
 
